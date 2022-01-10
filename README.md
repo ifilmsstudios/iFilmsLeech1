@@ -1,30 +1,9 @@
-<p align="center"> <a href="https://github.com/KangersHub/TorrentLeechX" target="_blank"> <img src="https://shields.io/badge/%F0%9F%A7%B2Torrent--LEECH--GDRIVE_Telegram_Leech_BOT%F0%9F%A4%96-red?logo=&style=for-the-badge" alt="TorrentLeechX" width="860" height="85"/>
+<p align="center"> <a href="https://t.me/Filmokamella" target="_blank"> <img src="https://shields.io/badge/%F0%9F%A7%B2Torrent--LEECH--GDRIVE_Telegram_Leech_BOT%F0%9F%A4%96-red?logo=&style=for-the-badge" alt="TorrentLeechX" width="860" height="85"/>
 
-# for support join [here](https://telegram.dog/KangersHub)
-# working example group [Leech Here](https://t.me/joinchat/ixcxUlpCInJiNmNl)
-# For Any Issues/Imrovements or Discussions [go here](https://github.com/KangersHub/TorrentLeech-Gdrive/issues) or [here](https://github.com/KangersHub/TorrentLeech-Gdrive/discussions) 
-# Please Leave A star And Fork this Repo and Follow my Github acc....
-# 🤖Telegram Torrent and Direct links Leecher 🔥
+<p align="center"> <a href="https://t.me/Filmokamella" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
 
 ---
-
-# TorrentLeechX (a modified fork of TorrentLeechGdrive with Extra Features....)
-![GitHub Repo stars](https://img.shields.io/github/stars/KangersHub/TorrentLeechX?color=orange&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/KangersHub/TorrentLeechX?color=green&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/KangersHub/TorrentLeechX?color=red&style=for-the-badge)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/KangersHub/TorrentLeechX?color=black&style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/KangersHub/TorrentLeechX?color=yellow&style=for-the-badge)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/KangersHub/TorrentLeechX?color=violet&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/KangersHub/TorrentLeechX?color=teal&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/KangersHub/TorrentLeechX?color=white&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/KangersHub/TorrentLeechX?color=blue&style=for-the-badge)
-
-<p align="center"> <a href="https://t.me/KangersHub" target="_blank"> <img src="https://shields.io/badge/Support--Group-Join_Now-navy?logo=&style=for-the-badge" alt="support group" width="400" height="45"/>
-
----
-
-### Dont Abuse The Repo ... this is intented to run in Small Places or For Short time 😐
-
+	
 ## A Telegram Torrent , Direct Links (and yt-dlp) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 # Benefits :-
@@ -57,7 +36,6 @@
     ✓ Added direct rclone.conf url in vars
     
 # TO-DO
--   ~Gdrive file clonning using Gclone~ `DONE ✓`
 -   [ ] Adding mp3 files support while playlist downloading.
 -   [ ] Password support while Unarchiving the files.
 -   [ ] Selection of required files during leeching the big files using aria(/leech command)
@@ -225,12 +203,4 @@ client_secret =
 
 
 ## Credits, and Thanks to
-* [KangersHub](https://github.com/KangersHub) for Modding 🙄
-* [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
-* [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
-* [Rclone Team](https://rclone.org) for theirs awesome tool☁️
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
-* [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
-* [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-  [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
+* [iFilms Studios](https://t.me/Filmokamella)
