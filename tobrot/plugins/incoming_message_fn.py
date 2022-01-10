@@ -311,5 +311,5 @@ async def rename_tg_file(client, message):
 
     else:
         await message.reply_text(
-            "<b>⚠️ Oops ⚠️</b>\n\n⚡Provide Name with extension.\n\n➩<b>Example</b>: <code> /rename Sample.mkv</code>", quote=True
+            "<b>⚠️ Oops ⚠️</b>\n\n⚡Provide Name with extension.\n\n➩<b>Example</b>: <code> /rename @Filmokamella.mkv</code>", quote=True
         )
